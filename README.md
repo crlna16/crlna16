@@ -7,6 +7,6 @@
 - 🌱 I’m developing machine learning algorithms and data science workflows for researchers 
 - 👯 Our group publishes tools and courses at https://github.com/DKRZ-AIM
 - 💬 I'm interested in teaching (scientific) software development, data science, and machine learning
-- 📫 How to reach me: arnold@dkrz.de
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://de.linkedin.com/in/crlnarnold)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=crlna16&show_icons=true)
