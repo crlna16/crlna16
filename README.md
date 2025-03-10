@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Helmholtz AI Consultant for Earth and Environment at Helmholtz Center Hereon, Germany
 - 🌱 I’m developing machine learning algorithms and data science workflows for researchers 
-- 👯 Our group publishes tools and courses at https://github.com/DKRZ-AIM
+- 👯 Our group publishes tools and courses at https://github.com/Hereon-KSN
 - 💬 I'm interested in teaching (scientific) software development, data science, and machine learning
 - 📫 How to reach me: https://de.linkedin.com/in/crlnarnold
 
